@@ -43,14 +43,25 @@ You can either use <div> tag or <table> tag to achieve the expected outcome.
 ### Progression 3: On and Off 
 Create a difference between active and passive days as per the expected output
 
-To make the dates inactive
+To make the dates inactive, use the below code
 ```
 .inactive {
   color: #888;
   cursor: default;
 }
 ```
+To highlight the dates, use the below code
+```
 
+td:hover {
+  background: #555;
+  color: #eee;
+}
+.inactive:hover {
+  cursor: default;
+  background: #444;
+}
+```
 ## Expected Output
 Here is a screenshot of the expected output.
 ![Image description](https://i1.faceprep.in/ProGrad/Calendar-lab-1.png)
