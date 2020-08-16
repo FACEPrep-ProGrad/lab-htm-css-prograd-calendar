@@ -36,6 +36,10 @@ Use the background image to create the atmosphere.
 
 Now, Refer the below expected output, tabulate the dates in the calendar.
 
+```
+You can either use <div> tag or <table> tag to achieve the expected outcome.
+```
+
 ### Progression 3: On and Off 
 Create a difference between active and passive days as per the expected output
 
