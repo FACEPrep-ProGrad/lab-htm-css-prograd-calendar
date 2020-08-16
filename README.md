@@ -41,6 +41,6 @@ Create a difference between active and passive days as per the expected output
 
 ## Expected Output
 Here is a screenshot of the expected output.
-![Image description](https://i1.faceprep.in/ProGrad/lab-calendar-1)
+![Image description](https://i1.faceprep.in/ProGrad/lab-calendar-1.png)
 
 Happy Coding ❤️
