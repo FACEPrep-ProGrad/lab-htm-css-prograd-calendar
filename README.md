@@ -62,6 +62,13 @@ td:hover {
   background: #444;
 }
 ```
+
+To make the passive dates active on hover,
+```
+.inactive:active {
+  box-shadow: none;
+}
+```
 ## Expected Output
 Here is a screenshot of the expected output.
 ![Image description](https://i1.faceprep.in/ProGrad/Calendar-lab-1.png)
